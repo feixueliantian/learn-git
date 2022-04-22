@@ -1,5 +1,5 @@
 module.exports = {
-  platforms: [],
+  platforms: ['爱奇艺', '芒果'],
   roles: {
 
   },
